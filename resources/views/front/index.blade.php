@@ -19,7 +19,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&amp;display=swap"
         rel="stylesheet">
-    <title>全端網頁專題</title>
+    <title>專題</title>
     <style>
     main {
         margin-top: 45px;
